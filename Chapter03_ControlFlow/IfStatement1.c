@@ -3,7 +3,7 @@
 
 int main()
 {
-    int age_jan = 30;
+    int age_jan = 27;
     int age_marc = 30;
 
     // if ((age_jan < age_marc) == true)
